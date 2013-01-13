@@ -1,0 +1,18 @@
+C:\Users\owner\Desktop\Numerical Programs\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\bin\Debug\NumericalAnalysisAssignment1.exe
+C:\Users\owner\Desktop\Numerical Programs\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\bin\Debug\NumericalAnalysisAssignment1.pdb
+C:\Users\owner\Desktop\Numerical Programs\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\Numerical Programs\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\NumericalAnalysisAssignment1.exe
+C:\Users\owner\Desktop\Numerical Programs\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\NumericalAnalysisAssignment1.pdb
+C:\Users\owner\Desktop\Numerical Programs\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\NumericalAnalysisAssignment1.csproj.ResolveComReference.cache
+C:\Users\owner\Documents\Visual Studio 2010\Projects\Numerical Programs\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\NumericalAnalysisAssignment1.csproj.ResolveComReference.cache
+C:\Users\owner\Documents\Visual Studio 2010\Projects\Numerical Programs\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\NumericalAnalysisAssignment1.exe
+C:\Users\owner\Documents\Visual Studio 2010\Projects\Numerical Programs\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\NumericalAnalysisAssignment1.pdb
+C:\Users\owner\Documents\Visual Studio 2010\Projects\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\NumericalAnalysisAssignment1.csproj.ResolveComReference.cache
+C:\Users\owner\Documents\Visual Studio 2010\Projects\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\NumericalAnalysisAssignment1.exe
+C:\Users\owner\Documents\Visual Studio 2010\Projects\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\NumericalAnalysisAssignment1.pdb
+C:\Users\owner\Documents\Visual Studio 2010\Projects\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Documents\Visual Studio 2010\Projects\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\bin\Debug\NumericalAnalysisAssignment1.exe
+C:\Users\owner\Documents\Visual Studio 2010\Projects\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\bin\Debug\NumericalAnalysisAssignment1.pdb
+C:\Users\owner\Documents\C# workspace\Projects\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\NumericalAnalysisAssignment1.csproj.ResolveComReference.cache
+C:\Users\owner\Documents\C# workspace\Projects\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\NumericalAnalysisAssignment1.exe
+C:\Users\owner\Documents\C# workspace\Projects\NumericalAnalysisAssignment1\NumericalAnalysisAssignment1\obj\x86\Debug\NumericalAnalysisAssignment1.pdb
